@@ -23,6 +23,7 @@ Exploratory Data Analysis (EDA):
 Performed group-by operations to find the most profitable products and regions.
 Feature Engineering:
 Extracted Time, Date, and Month features to analyze shopping patterns.
+
 Data Visualization: 
 Built Bar Charts and Line Graphs to visualize monthly revenue and product demand.
 
